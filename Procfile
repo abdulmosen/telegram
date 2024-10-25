@@ -1,1 +1,1 @@
-worker: python telegram_video_downloader.py
+worker: python youtube_downloader.py
