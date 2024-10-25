@@ -5,7 +5,7 @@ from telegram.ext import (
 )
 
 # أدخل رمز الوصول (Token) الخاص بك هنا
-TELEGRAM_TOKEN = '7706214778:AAEAI-NSprJNmmTs0zls55SpgUD8xi2AJfM'
+TELEGRAM_TOKEN = 'b64ba396-c2d8-4a15-9965-89d6a3b3aa4d'
 
 # إعدادات yt-dlp لتنزيل الفيديو
 ydl_opts = {
